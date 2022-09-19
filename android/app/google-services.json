@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "183321663834",
+    "project_id": "bkkskansaji",
+    "storage_bucket": "bkkskansaji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183321663834:android:ce83fcf136c8a40ebb3b63",
+        "android_client_info": {
+          "package_name": "com.bkk_skansaji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183321663834-mgltb2ra15srrnouisp7vep0ijfjmg0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bkk_skansaji",
+            "certificate_hash": "a0e5e6fa13e94fa5ba8e00ae1ec43f487775753d"
+          }
+        },
+        {
+          "client_id": "183321663834-5bfed3jht3kvcith7p5lmv2qjrq4buvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuCsS_OWRiKJObYXugDoG9ZuNJc7FDuuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183321663834-5bfed3jht3kvcith7p5lmv2qjrq4buvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
